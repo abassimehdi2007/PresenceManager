@@ -1,4 +1,3 @@
-
 package com.example.presencemanager
 
 import android.content.Intent
