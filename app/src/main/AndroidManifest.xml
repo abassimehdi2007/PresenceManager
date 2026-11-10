@@ -25,6 +25,25 @@
             android:name=".DashboardActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
+
+
+        <activity
+            android:name=".GroupesActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".AppelActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".HistoriqueActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".StatistiquesActivity"
+            android:exported="false" />
+
+
     </application>
 
 </manifest>
