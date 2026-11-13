@@ -21,3 +21,4 @@ L'application contient une page d'accueil avec :
 
 ## Version
 1.0
+"# PresenceManager2" 
